@@ -1,4 +1,4 @@
-entrypoint = "cook.py"
+entrypoint = "players.py"
 modules = ["python-3.11"]
 
 [nix]
