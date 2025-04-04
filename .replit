@@ -1,4 +1,4 @@
-entrypoint = "glucose.py"
+entrypoint = "cook.py"
 modules = ["python-3.11"]
 
 [nix]
