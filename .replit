@@ -1,4 +1,4 @@
-entrypoint = "players.py"
+entrypoint = "steps.py"
 modules = ["python-3.11"]
 
 [nix]
